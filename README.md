@@ -1,6 +1,6 @@
 # BlueSppDemo-Android
 
-This is a demo of how to use the [Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary) in Android Studio 3.1.1
+This is a demo of how to use the [Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary) to build a Bluetooth terminal with Android Studio 3.1.1
 
 ## Usage
 
