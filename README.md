@@ -18,6 +18,7 @@ This is a demo of how to use the [Android-BluetoothSPPLibrary](https://github.co
     implementation 'com.akexorcist:bluetoothspp:1.0.0'
   }
 ```
+![Communicate with android](https://github.com/weimiao86/BlueSppDemo-Android/blob/master/Screenshots/add_library_to_dependencies.png)
 
 * Declare permission for library: add the two lines below to the **manifests** --> **AndroidManifest.xml**,  
 
