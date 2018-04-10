@@ -29,10 +29,11 @@
             android:id="@+id/etMessage"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_gravity="bottom"
+            android:layout_weight="1"
             android:ems="10"
-            android:hint="@string/bt_write" />
+            android:hint="@string/bt_write"
+            android:inputType="none" />
 
         <Button
             android:id="@+id/btnSend"
