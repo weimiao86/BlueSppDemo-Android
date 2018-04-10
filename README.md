@@ -25,7 +25,7 @@ This is a demo of how to use the [Android-BluetoothSPPLibrary](https://github.co
 <uses-permission android:name="android.permission.BLUETOOTH" />
 <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 ```
-The **AndroidManifest.xml** should look like as below:
+* The **AndroidManifest.xml** should look like as below:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -52,4 +52,6 @@ The **AndroidManifest.xml** should look like as below:
 
 </manifest>
 ```
+
+### You are ready to go, for the detail explaination of the java code, prelase refer to the [Simple Usage](https://github.com/akexorcist/Android-BluetoothSPPLibrary/blob/master/README.md#simple-usage)
 
