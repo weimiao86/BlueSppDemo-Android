@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueSppDemo</string>
+    <string name="bt_connect">Connect</string>
+    <string name="bt_send">Send</string>
+    <string name="bt_notConnected">"Status: Not connect</string>
+    <string name="bt_received">Received data</string>
+    <string name="bt_write">type command here</string>
+    <string name="action_settings">Settings</string>
+</resources>
